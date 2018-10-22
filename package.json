@@ -1,0 +1,23 @@
+{
+  "name": "theme-monokaisharp",
+  "displayName": "Monokai Sharp Theme",
+  "description": "Monokai but more cutting-edge",
+  "version": "1.0.0",
+  "publisher": "fms-cat",
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Sharp",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai-Sharp.json"
+      }
+    ]
+  },
+  "icon": "icon.png"
+}
