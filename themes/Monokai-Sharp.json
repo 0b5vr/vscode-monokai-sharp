@@ -75,6 +75,18 @@
     "sideBarSectionHeader.background": "#30343b",
     "sideBarSectionHeader.foreground": "#b9d3e3",
 
+    "minimap.findMatchHighlight": "#eeeeee66",
+    "minimap.selectionHighlight": "#eeeeee33",
+    "minimap.errorHighlight": "#ff0066",
+    "minimap.warningHighlight": "#ff6a1f",
+    "minimap.background": "#191a1f",
+    "minimapSlider.background": "#d0edff11",
+    "minimapSlider.hoverBackground": "#d0edff22",
+    "minimapSlider.activeBackground": "#d0edff33",
+    "minimapGutter.addedBackground": "#0aa363",
+    "minimapGutter.modifiedBackground": "#9e9a23",
+    "minimapGutter.deletedBackground": "#a30a4a",
+
     "editorGroup.border": "#3b4249",
     "editorGroup.dropBackground": "#d0edff44",
     "editorGroupHeader.noTabsBackground": "#191a1f",
