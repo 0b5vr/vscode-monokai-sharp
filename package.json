@@ -1,11 +1,11 @@
 {
-  "name": "theme-chromacoder",
-  "displayName": "ChromaCoder Theme",
-  "description": "Best for chroma keying",
+  "name": "theme-monokaisharp",
+  "displayName": "Monokai Sharp Theme",
+  "description": "Monokai but more cutting-edge",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FMS-Cat/vscode-chromacoder"
+    "url": "https://github.com/FMS-Cat/vscode-monokai-sharp"
   },
   "publisher": "fms-cat",
   "engines": {
@@ -17,9 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "ChromaCoder",
+        "label": "Monokai Sharp",
         "uiTheme": "vs-dark",
-        "path": "./themes/ChromaCoder.json"
+        "path": "./themes/Monokai-Sharp.json"
       }
     ]
   },
