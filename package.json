@@ -2,7 +2,7 @@
   "name": "theme-monokaisharp",
   "displayName": "Monokai Sharp Theme",
   "description": "Monokai but more cutting-edge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/FMS-Cat/vscode-monokai-sharp"
