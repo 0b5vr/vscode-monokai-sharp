@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.0.1
+
+- Minimap now shows colors correctly
+- Modified version control colors on the gutter of the editor
+
 ## 1.0.0
 
 - Okay now it comes with ui theme yay
