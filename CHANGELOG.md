@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.0.2
+
+- 🎨 Slightly brighten comments
+- 🐛 Add missing colors for gitDecoration
+
 ## 1.0.1
 
 - Minimap now shows colors correctly
