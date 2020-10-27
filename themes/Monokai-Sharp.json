@@ -285,7 +285,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#5e6973"
+        "foreground": "#697681"
       }
     },
 
@@ -450,7 +450,7 @@
       "name": "diff.header",
       "scope": "meta.diff, meta.diff.header",
       "settings": {
-        "foreground": "#5e6973"
+        "foreground": "#697681"
       }
     },
     {
@@ -544,7 +544,7 @@
       "name": "Markdown Separator",
       "scope": "meta.separator.markdown",
       "settings": {
-        "foreground": "#5e6973"
+        "foreground": "#697681"
       }
     },
     {
