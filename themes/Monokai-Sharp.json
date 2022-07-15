@@ -275,7 +275,18 @@
     "breadcrumb.foreground": "#a2b8c7",
     "breadcrumb.focusForeground": "#d0edff",
     "breadcrumb.activeSelectionForeground": "#d0edff",
-    "breadcrumbPicker.background": "#24272d"
+    "breadcrumbPicker.background": "#24272d",
+
+    "debugIcon.startForeground": "#00ff91",
+    "debugIcon.pauseForeground": "#00aaff",
+    "debugIcon.stopForeground": "#ff0066",
+    "debugIcon.disconnectForeground": "#ff0066",
+    "debugIcon.restartForeground": "#00ff91",
+    "debugIcon.stepOverForeground": "#00aaff",
+    "debugIcon.stepIntoForeground": "#00aaff",
+    "debugIcon.stepOutForeground": "#00aaff",
+    "debugIcon.continueForeground": "#00aaff",
+    "debugIcon.stepBackForeground": "#00aaff"
   },
 
   "tokenColors": [
