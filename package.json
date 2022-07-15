@@ -5,9 +5,9 @@
   "version": "1.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FMS-Cat/vscode-monokai-sharp"
+    "url": "https://github.com/0b5vr/vscode-monokai-sharp"
   },
-  "publisher": "fms-cat",
+  "publisher": "0b5vr",
   "engines": {
     "vscode": "^1.5.0"
   },
