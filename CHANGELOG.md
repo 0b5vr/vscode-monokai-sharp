@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.1.0
+
+- ✨ Define colors for inlay hints
+- ✨ Define color for `gitDecoration.renamedResourceForeground`
+- ✨ Define colors for debug icons
+
 ## 1.0.2
 
 - 🎨 Slightly brighten comments
