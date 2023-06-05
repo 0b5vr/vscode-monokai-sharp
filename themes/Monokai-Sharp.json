@@ -514,7 +514,7 @@
     },
     {
       "name": "Markdown Code",
-      "scope": "markup.inline.raw.markdown, markup.raw.block.markdown, markup.fenced_code.block.markdown",
+      "scope": "markup.inline.raw.string.markdown, markup.raw.block.markdown, markup.fenced_code.block.markdown",
       "settings": {
         "foreground": "#ff6a1f"
       }
