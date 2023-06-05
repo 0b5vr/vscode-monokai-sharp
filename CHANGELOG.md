@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.1.1
+
+- 🐛 Fix highlighting of markdown inline code
+
 ## 1.1.0
 
 - ✨ Define colors for inlay hints
