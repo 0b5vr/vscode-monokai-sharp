@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.1.2
+
+- 💪 Improve background color of diff view
+
 ## 1.1.1
 
 - 🐛 Fix highlighting of markdown inline code
