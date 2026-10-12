@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.2.0
+
+- ✨ Remove surface border in modern UI
+- 💡 Focus border and buttons are now white
+- 💡 Remove bg color of diff view, it was ugly
+
 ## 1.1.2
 
 - 💪 Improve background color of diff view
