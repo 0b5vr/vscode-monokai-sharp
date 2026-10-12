@@ -3,7 +3,7 @@
   "type": "dark",
 
   "colors": {
-    "focusBorder": "#3b4249",
+    "focusBorder": "#d0edff",
     "foreground": "#d0edff",
     "widget.shadow": "#00000044",
     "selection.background": "#474f57",
@@ -18,9 +18,9 @@
     "textPreformat.foreground": "#e7ef7c",
     "textSeparator.foreground": "#aec5d5",
 
-    "button.background": "#0a70a5",
-    "button.foreground": "#ffffff",
-    "button.hoverBackground": "#14374c",
+    "button.background": "#d0edff",
+    "button.foreground": "#191a1f",
+    "button.hoverBackground": "#b9d3e3",
 
     "dropdown.background": "#30343b",
     "dropdown.listBackground": "#191a1f",
