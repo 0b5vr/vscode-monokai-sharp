@@ -10,6 +10,8 @@
     "descriptionForeground": "#aec5d5",
     "errorForeground": "#ff0066",
 
+    "surface.border": "#3b424900",
+
     "textBlockQuote.background": "#30343b",
     "textBlockQuote.border": "#00aaff",
     "textCodeBlock.background": "#000000",
